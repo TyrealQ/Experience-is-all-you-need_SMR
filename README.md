@@ -2,7 +2,7 @@ Training_AE: This training dataset is tailored for the fine-tuning of GPT-3.5 to
 
 Training_CC: This training dataset is tailored for the fine-tuning of GPT-3.5 to classify aspects (CC).
 
-Testing_all_variables: This comprehensive testing dataset encompasses review texts and relevant metadata along with all the variables utilized for statistical analysis.
+Testing_all_variables: This comprehensive testing dataset encompasses review texts and relevant metadata along with all the variables developed for statistical analysis.
 
 Testing_analysis: This testing dataset is specifically curated for conducting statistical analysis.
 
