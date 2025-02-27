@@ -6,3 +6,7 @@
 - **Testing_analysis** – Testing dataset for statistical analysis.  
 - **RoBERTa_eval_data** – Evaluation dataset extracted from the training data for model assessment.  
 - **Code_SMR** – Python code executed on Google Colab for performing all study analyses.  
+
+[Read our paper](https://doi.org/10.1080/14413523.2024.2386467)
+
+[Listen to the podcast on YouTube](https://youtu.be/TCzltLSmOiM)
